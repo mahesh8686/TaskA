@@ -1,0 +1,94 @@
+1.       What is meta?
+2.       What is empty tag?
+3.       What do you mean by semantics?
+4.       What happens if we don't close tag?
+5.       What do you mean by markup?
+6.       What br tag does?
+7.       What is default property in list i.e, ol and ul?
+8.       List out 6 features in HTML5?
+9.       alt in images?
+10.   Description list?
+11.   What is iframe?
+12.   What does a DOCTYPE do?
+13.   What happens when DOCTYPE is not given?
+14.   What's the difference between standards mode
+15.   What's the difference between HTML and XHTML?
+16.   What is a Favicon? Where are favicons displayed?
+17.   What is a blockquote?
+18.   What is a meta tag?
+19.   When should you use section, div or article?
+20.   What is the purpose of meta tags?
+21.   What is the purpose of Charset meta tag?
+22.   What is the DOM? How does the DOM work? Explain in as much detail as possible.
+23.   What does a doctype do?
+24.   How do you serve a page with content in multiple languages?
+25.   What kind of things must you be wary of when designing or developing for multilingual sites?
+26.   What are the building blocks of HTML5?
+27.   Describe the difference between a  sessionStorage and localStorage.
+28.   Describe the difference between <script>, <script async> and <script defer>.
+29.   Why is it generally a good idea to position CSS <link>s between <head></head> and JS <script>s just before </body>? Do you know
+31.   How can you highlight text in html?
+32.   Can you apply css to a part of html document only?
+33.   Headings - h1 to h6(sizes)
+34.   Paragraph and line breaks
+35.   Text formatting
+36.   Preformatted text (Preserve line breaks and spaces)
+37.   Sub and Superscript text
+38.    short quotations
+39.   Abbreviations 
+40.   Marking deleted
+41.   Setting text direction of an element
+42.   Insert contact information
+43.   Inserting comments
+44.   Inserting horizontal lines
+45.   Create hyperlink
+46.   Using image as a link
+47.   Open link in a new browser window
+48.   Navigate inside page - Jump link
+49.   Move outside of an iframe
+50.   Creating a mailto link - A link that sends an e-mail
+51.   Creating an unordered list
+52.   Creating an ordered list
+53.   Creating a definition list
+54.   Creating text input fields
+55.   Creating password input fields
+56.   Creating HTML5 new input fields
+57.   Checkboxes and radio buttons
+58.   Select boxes - A drop-down list
+59.   Select box with a pre-selected value
+60.   Grouping of options inside a select box
+65.   Grouping similar form fields
+66.   Submit or reset a form - The use of submit and reset button
+67.   Canvas
+68.   Embedding canvas into HTML documents
+69.   Drawing a rectangle onto the canvas
+70.   HTML5 SVG
+71.   Embedding SVG into HTML documents
+72.   Creating a rectangle using SVG
+73.   How do you implement offline access?
+74.   Difference between select and datalist?
+75.   Is html dynamic & static?
+76.   List out 5 examples for inline and block elements?
+77.   Nested table?
+
+
+Research Intern-2
+Link: https://lnkd.in/d3AwTHR
+
+Information Technology Intern, Summer 2021
+Link: https://lnkd.in/dBpqy7n
+
+Intern: Graduate (Tech)
+Link: https://lnkd.in/dh38ews
+
+Area Talent Acquisition Support
+Link: https://lnkd.in/dinUGef
+
+MS SQL-Developer(0-1 yr)
+Link: https://lnkd.in/dvCZ2Yq
+
+Trainee Analyst
+Link: https://lnkd.in/dfgdGSa
+
+Technical Support Associate/ Specialist (L1 Service Desk)-Part time
+Link: https://lnkd.in/d7TDf8U
